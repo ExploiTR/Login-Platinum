@@ -1,0 +1,23 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.SettingsActivity" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimarySettings</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkSettings</item>
+        <item name="colorAccent">@color/colorPrimarySettings</item>
+        <item name="fontFamily">@font/mosk</item>
+    </style>
+
+    <style name="AppTheme.ThemeActivity" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimaryTheme</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkTheme</item>
+        <item name="colorAccent">@color/colorAccentTheme</item>
+        <item name="fontFamily">@font/mosk</item>
+    </style>
+
+</resources>

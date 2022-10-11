@@ -1,0 +1,3 @@
+include ':app', ':snake'
+include ':licensinglib'
+project(':snake').projectDir = new File('/snake')

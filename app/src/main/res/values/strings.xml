@@ -1,0 +1,159 @@
+<resources>
+    <string name="app_name" translatable="false">Login</string>
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+    <string name="login_by_exploitr" translatable="false">Login | X1 PRO</string>
+    <string name="pratimmajumder1_gmail_com" translatable="false">pratimdevonplay@gmail.com</string>
+    <string name="status" translatable="false">Status :</string>
+    <string name="settings" translatable="false">Settings</string>
+    <string name="about" translatable="false">About</string>
+    <string name="share" translatable="false">Share</string>
+    <string name="about_body" translatable="false">Hi, I knew that you are a subscriber of WishNet ISP.I\'ve found an app which will save your important time by making logging in easy.\nYou can grab a copy of the latest package from Play Store</string>
+    <string name="user_id" translatable="false">User ID</string>
+    <string name="you_xstar" translatable="false">you_xstar</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="some_hidden" translatable="false">some_hidden</string>
+    <string name="enable_automatic_login" translatable="false">Enable Automatic Login On App Open</string>
+    <string name="theme" translatable="false">Theme</string>
+    <string name="toolbar_text_colour" translatable="false">Toolbar Text Colour</string>
+    <string name="status_text_colour" translatable="false">Status Text Colour</string>
+    <string name="login_out_text_colour" translatable="false">Login/out Text Colour</string>
+    <string name="apply_changes" translatable="false">Apply Changes</string>
+    <string name="toolbar_fab_colour" translatable="false">Toolbar/FAB Colour</string>
+    <string name="progressbar_colour" translatable="false">Progressbar Colour</string>
+    <string name="error_status_message" translatable="false">Sometimes, when network condition isn\'t good, Login may give you wrong Status information.Login checks internet connection status based on ping results for google.com (Changeable/Settings).If Login receives successful ping response it reports you that you\'re connected.But sometimes due to network reasons that wouldn\'t happen, but that doesn\'t mean you aren\'t connected.Try logging in.\"</string>
+    <string name="sign_in_alert" translatable="false">Login wouldn\'t be able to save data to drive if you don\'t sign in</string>
+    <string name="optional_settings" translatable="false">Optional Settings</string>
+    <string name="custom_ping_address" translatable="false">Custom Ping Address</string>
+    <string name="required_settings" translatable="false">Required Settings</string>
+    <string name="_8_8_8_8" translatable="false">8.8.8.8 / google.com</string>
+    <string name="custom_ping_attempts_count" translatable="false">Custom Ping Attempts Count</string>
+    <string name="_1" translatable="false">1</string>
+    <string name="ping_inf_updated" translatable="false">Ping Related Information Updated</string>
+    <string name="ping_inf_wrng_go_def" translatable="false">Custom Ping Information Wrong : Setting To Default Value</string>
+    <string name="cred_let_def" translatable="false">Credentials remained unchanged</string>
+    <string name="set_user_show" translatable="false">Username is set to →</string>
+    <string name="set_pwd_show" translatable="false">Password is set to →</string>
+    <string name="wifi_up_nt_connected" translatable="false">Wifi is up, but device isn\'t connected to any network</string>
+    <string name="cant_detect_conn" translatable="false">Can\'t Detect Any Network Connection</string>
+    <string name="turn_up_wifi" translatable="false">Please Turn Up Wifi</string>
+    <string name="inet_acur_msg" translatable="false">Internet Connection Status Accuracy:</string>
+    <string name="developer" translatable="false">Developer</string>
+    <string name="dev_msg" translatable="false">Hi! I\'m Pratim Majumder.Thanks for using Login.Hope my hardworking will save some time of yours. It\'ll be great if Login gets a 5★	.I\'ll be pleased if you directly mail me.</string>
+    <string name="github_github_com_exploitr" translatable="false">GitHub : github.com/exploitr</string>
+    <string name="insta_init_" translatable="false">Insta : instagram.com/encoded_init</string>
+    <string name="blog_wordpress_" translatable="false">Blog : exploitrme.wordpress.com</string>
+    <string name="disclaimer_text" translatable="false">This application is only to be used for personal/non-commercial usage and must be used on networks for which you have permission to do so. Any other use will not be the responsibility of the developer.In other words, you will be responsible for what you do.</string>
+    <string name="disclaimer" translatable="false">Disclaimer</string>
+    <string name="open_source_licenses_dlg" translatable="false">Open Source Licenses</string>
+    <string name="sign_fail" translatable="false">Unknown error : Sign-In failure</string>
+    <string name="enable_auto_login_check" translatable="false">Enable Auto-Login Check</string>
+    <string name="enable_periodic_connection_check" translatable="false">Enable Periodic Connection Check</string>
+    <string name="auto_help" translatable="false"><![CDATA[When enabled, Login checks for WIFI Connection availability.When turned up and connected, Login automatically logs in. < No user interaction required >]]></string>
+    <string name="auto_help_" translatable="false">When turned up, Login checks for internet-connectivity 15 minutes apart (limited by Google to 15 mins) and gives a notification</string>
+    <string name="enable_related_notifications" translatable="false">Enable Related Notifications</string>
+    <string name="dis_dis" translatable="false">Login automatically shows notifications for periodic or normal auto-login. If you\'re disturbed with it, disable it</string>
+    <string name="connection_quality" translatable="false">Realtime :</string>
+    <string name="ping_0_ms" translatable="false">Ping - 0 ms</string>
+    <string name="enable_connection_quality_graph" translatable="false">Enable Connection Quality Graph</string>
+    <string name="average_connection_quality" translatable="false">Average :</string>
+    <string name="open_web_version" translatable="false">Open Web Version</string>
+    <string name="advanced" translatable="false">Advanced</string>
+    <string name="reset" translatable="false">Reset</string>
+    <string name="save" translatable="false">Save</string>
+    <string name="version_information" translatable="false">Version Information</string>
+    <string name="no_information" translatable="false">No information :-(</string>
+    <string name="report_a_bug" translatable="false">Report A Bug</string>
+    <string name="what_s_the_bug_be_specific" translatable="false">What\'s the bug? Be specific</string>
+    <string name="submit_bug_report" translatable="false">Submit Bug Report</string>
+    <string name="a_good_question_gets_a_good_answer" translatable="false">A good question gets a good answer.</string>
+    <string name="algorithmic_info_s" translatable="false">Algorithmic Info(s)</string>
+    <string name="what_is_avg" translatable="false">The average ping is calculated based on last 250 fastened* ping response. That means the average tends to chnage quickly and doesn\'t mean total average. It means instant average</string>
+    <string name="avg_inf_title" translatable="false">How Average Ping Is Calculated</string>
+    <string name="why_should_you_pay" translatable="false">Why did you pay?</string>
+    <string name="why_pay" translatable="false"><![CDATA[I\'ve spent a good amount of \'time\' to build up this application. And, it\'s still under development. Besides that, a good amount of food energy, electricity charge, internet connection cost & thinking energy have been spent on this. So, I\'ve put a very little amount of money for this in the store.]]></string>
+    <string name="how_much_will_i_get" translatable="false">How much will I get?</string>
+    <string name="_charge" translatable="false">I\'ve charged ₹25\nGoogle deducts 30% and Tax paid 18%\nTotal I get ₹13</string>
+    <string name="upload" translatable="false">Upload</string>
+    <string name="download" translatable="false">Download</string>
+    <string name="title_activity_splash_screen" translatable="false">SplashScreen</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label" translatable="false">First Fragment</string>
+    <string name="second_fragment_label" translatable="false">Second Fragment</string>
+    <string name="next" translatable="false">Next</string>
+    <string name="previous" translatable="false">Previous</string>
+
+    <string name="hello_first_fragment" translatable="false">Hello first fragment</string>
+    <string name="hello_second_fragment" translatable="false">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_intro_screen" translatable="false">IntroScreen</string>
+    <string name="continue_" translatable="false">Continue</string>
+    <string name="title_activity_main_screen" translatable="false">MainScreen</string>
+    <string name="title_stat" translatable="false">Stats</string>
+    <string name="title_dashboard" translatable="false">Dashboard</string>
+    <string name="title_notifications" translatable="false">Speed Test</string>
+    <string name="network_statistics" translatable="false">Simplified Network Statistics</string>
+    <string name="ov_av_pg" translatable="false">Overall average ping : %d ms</string>
+    <string name="network_health_neutral">Network Quality : %s</string>
+    <string name="total_packet_loss_d">Total packet loss : %d %%</string>
+    <string name="waiting_sec">Waiting %d sec for complete stats.....</string>
+    <string name="connected_as_s">Connected as : %s</string>
+    <string name="finding_public_ip_address">Finding public ip address.....</string>
+    <string name="current_isp_s">Current ISP : %s</string>
+    <string name="searching_isp_information">Searching ISP Information.....</string>
+    <string name="joined">Joined</string>
+    <string name="d_mon_ago">%d mon ago.</string>
+    <string name="_6_mon_ago">6 mon ago.</string>
+    <string name="your_photo">Your photo</string>
+    <string name="sign_in_with_google" translatable="false">Sign In with Google</string>
+    <string name="unknown_msg" translatable="false">Unknown</string>
+    <string name="loading_msg" translatable="false">Loading...</string>
+    <string name="isp_profile">ISP Profile</string>
+    <string name="loading_isp_details">Not Selected</string>
+    <string name="user_profile">User Profile</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="select">Select</string>
+    <string name="_80">0</string>
+    <string name="mb_s">MB/s</string>
+    <string name="sample_status_text_going_on">Sample status text going on....</string>
+    <string name="_00">00</string>
+    <string name="add_new_profile">Add New Profile</string>
+    <string name="generated_ppid_2345867">Generated PPID : 2345867</string>
+    <string name="si_ti_broadband">SITI Broadband</string>
+    <string name="isp_name">ISP Profile Name</string>
+    <string name="login_request_arguments">Login Request Arguments</string>
+    <string name="login_request_headers">Login Request Headers</string>
+    <string name="logout_request_arguments">Logout Request Arguments</string>
+    <string name="logout_request_headers">Logout Request Headers</string>
+    <string name="username_password_etc">username,password etc</string>
+    <string name="siti_broadband">SITI Broadband</string>
+    <string name="login_url">Login URL</string>
+    <string name="http_172_31_7_66_cp_default_aspx">http://172.31.7.66/cp/Default.aspx</string>
+    <string name="logout_url">Logout URL</string>
+    <string name="login_request_type">Login Request Type</string>
+    <string name="logout_request_type">Logout Request Type</string>
+    <string name="cancel">Cancel</string>
+    <string name="input_config_comma_separated_identifiers">Input Config (comma separated identifiers, press space to add comma automatically)</string>
+    <string name="default_profile_icon">default profile icon</string>
+    <string name="view">View</string>
+    <string name="add_profile">Add Profile</string>
+    <string name="user_profile_name">User Profile Name</string>
+    <string name="input_argument_values">Login Arguments</string>
+    <string name="assigned_isp_profile">Assigned ISP Profile</string>
+    <string name="random_isp_name">NONE (Press Change Button)</string>
+    <string name="change">Change</string>
+    <string name="argument1">argument1</string>
+    <string name="logout_headers">Logout Headers</string>
+    <string name="login_headers">Login Headers</string>
+    <string name="logout_arguments">Logout Arguments</string>
+    <string name="sync">Sync</string>
+    <string name="server_client_id">207586998399-fm0rshd3s5cc071ci4gb9ehea1bho4i1.apps.googleusercontent.com</string>
+    <string name="syncing_user_data">Syncing User Data</string>
+
+    <string-array name="input_request_type_entries">
+        <item>GET</item>
+        <item>POST</item>
+    </string-array>
+</resources>
