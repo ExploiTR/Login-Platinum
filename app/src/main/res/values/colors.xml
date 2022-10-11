@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1A237E</color>
+    <color name="colorPrimaryDark">#1A237E</color>
+    <color name="colorAccent">#ff2539</color>
+    <color name="RED_X">#ff2539</color>
+    <color name="BACK_INTRO">#363636</color>
+
+    <color name="colorPrimarySettings">#e59d39</color>
+    <color name="colorPrimaryDarkSettings">#d69131</color>
+
+    <color name="colorPrimaryTheme">#455a64</color>
+    <color name="colorPrimaryDarkTheme">#1c313a</color>
+    <color name="colorAccentTheme">#718792</color>
+
+    <color name="graph_start">#0b102c</color>
+    <color name="graph_end">#00b9fe</color>
+
+    <color name="COLOR_STATUS_EXCELLENT">#00e676</color>
+    <color name="COLOR_STATUS_GOOD">#00c853</color>
+    <color name="COLOR_STATUS_FAIR">#00bfa5</color>
+    <color name="COLOR_STATUS_MEDIOCRE">#eeff41</color>
+    <color name="COLOR_STATUS_AWFUL">#ffab00</color>
+    <color name="COLOR_STATUS_ABYSMAL">#ff1744</color>
+
+    <color name="wh">#ffffff</color>
+    <color name="bl">#000000</color>
+
+    <color name="purp">#3d5afe</color>
+
+</resources>
